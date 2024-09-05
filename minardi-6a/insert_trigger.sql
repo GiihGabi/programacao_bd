@@ -1,0 +1,1 @@
+insert into escola.alunodisciplina (ra,disciplina,nota1,nota2,falta) values (1932266, 10, -1,2,10);
